@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+:computer: I am currently a master student at EPFL, with major focus on Artificial Intelligence and Machine learning. I also love Cryptography 
+
 <!--
 **oraziorillo/oraziorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
