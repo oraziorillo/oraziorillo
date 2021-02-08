@@ -4,6 +4,8 @@
 - :computer: I usually work in Python, Java, C or C++ 
 - 📫 You can contact me on my email address oraziorillo@gmail.com 
 - :camera: Check out some photos on my Instagram [oraziorillo](https://www.instagram.com/oraziorillo/?hl=it)
+- ⚡ I love photography :camera:, cinema :clapper:, music :musical_keyboard:, videogames :video_game:, but also volleyball :volleyball: and sport in general 
+- :fork_and_knife: I obviously love pizza :pizza: and to drink a nice cup of tea :tea: in the afternoon 
 
 
 <!--
