@@ -1,4 +1,4 @@
-### Hello World! 👋
+### Hello World! :wave:
 
 I am Orazio Rillo, a 23 years old Italian guy
 
