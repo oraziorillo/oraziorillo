@@ -6,7 +6,7 @@ I am Orazio Rillo, a 23 years old Italian guy
 - :computer: I usually work in Python, Java, C or C++ 
 - 📫 You can contact me on my email address oraziorillo@gmail.com 
 - :camera: Check out some photos on my Instagram profile [oraziorillo](https://www.instagram.com/oraziorillo/?hl=it)
-- I love photography :camera:, cinema :clapper:, music :musical_keyboard:, videogames :video_game:, but also volleyball :volleyball: and sport in general 
+- I love photography :camera:, cinema :clapper:, music :musical_keyboard:, videogames :video_game:, but also volleyball :volleyball: and sports in general 
 - I can't say no to a slice of Neapolitan pizza :pizza: or to a glass of a good wine :wine_glass:
 
 
