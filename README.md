@@ -3,7 +3,7 @@
 I am Orazio Rillo, a 23 years old Italian guy
 
 - :books: I am currently a master student at [EPFL](https://www.epfl.ch/en/), with main focus on artificial intelligence and machine learning. I also love cryptography and security-related topics :lock: :key:
-- :computer: I usually work in Python, Java, C or C++ 
+- :computer: I usually work in Python, C/C++ or Java 
 - 📫 You can contact me on my email address oraziorillo@gmail.com 
 - :camera: Check out some photos on my Instagram profile [oraziorillo](https://www.instagram.com/oraziorillo/?hl=it)
 - I love photography :camera:, cinema :clapper:, music :musical_keyboard:, videogames :video_game:, but also volleyball :volleyball: and sports in general 
