@@ -1,6 +1,6 @@
 ### Hello World! :wave:
 
-I am Orazio Rillo, a 23 years old Italian guy
+I am Orazio Rillo, a 25 years old Italian guy
 
 - :books: I am currently a master student at [EPFL](https://www.epfl.ch/en/), with main focus on artificial intelligence and machine learning. I also love cryptography and security-related topics :lock: :key:
 - :computer: I usually work in Python, C/C++ or Java 
