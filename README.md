@@ -1,15 +1,14 @@
 ### Hello World! :wave:
 
-I am Orazio Rillo, a 25 years old Italian guy
+Orazio here.
 
-- 📚 I’m currently working on an end-to-end framework for solving WCSPs with CCG-based techniques as a Visiting Researcher at [USC](https://www.usc.edu/).
-- 👨‍🎓 I attained a MSc in Computer Science at [EPFL](https://www.epfl.ch/en/), with main focus on artificial intelligence and machine learning. I also love cryptography and security-related topics :lock: :key:.
-- :computer: I usually work in Python, C/C++ or Java.
-- 📫 You can contact me on my email address oraziorillo@gmail.com.
-- :camera: Check out some photos on my Instagram profile [oraziorillo](https://www.instagram.com/oraziorillo/?hl=it).
-- I love photography :camera:, cinema :clapper:, music :musical_keyboard:, videogames :video_game:, but also volleyball :volleyball: and sports in general.
-- I can't say no to a slice of Neapolitan pizza :pizza: or to a glass of a good wine :wine_glass:.
+🤖 I'm an AI Engineer with a "proven" ability to design, build, and scale machine learning solutions that actually do something useful—because who has time for things that don’t? I take complex ideas and turn them into software that businesses and researchers can’t live without.
 
+👩🏻 According to my mom, what sets me apart is my adaptability. Apparently, it’s not just about jumping from startups to research labs to corporate environments; it’s about always bringing fresh ideas and actual results. So, there’s that.
+
+💡 What really drives me? The adrenaline rush of constant discovery. AI’s constantly changing, and I like to think I stay ahead of the curve—whether by reading papers that make my head hurt or tinkering with things that might blow up in my face.
+
+💬 If you’re building the next big thing or just want to chat about the future of innovation (preferably over coffee), let’s connect. I’m always down for a brainstorm or a random, mind-bending idea exchange.
 
 <!--
 **oraziorillo/oraziorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
