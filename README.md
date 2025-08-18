@@ -2,13 +2,13 @@
 
 Orazio here.
 
-- 🤖 I'm an AI Engineer with a "proven" ability to design, build, and scale machine learning solutions that do something useful—because who has time for things that don’t? I turn complex ideas into software that businesses and researchers can’t live without.
+AI Engineer at Datwave. I design, build, and scale ML/AI systems that solve other companies' problems.
 
-- 👩🏻 According to my mom, what sets me apart is my adaptability. Apparently, it’s not just about jumping from startups to research labs to corporate environments; it’s about embracing new environments and always bringing fresh ideas and actual results. So, there’s that.
+My passions usually involve building or tinkering with something related to computers. For the past 5+ years, AI has been a big one.
 
-- 💡 What drives me? The adrenaline rush of constant discovery. AI’s constantly changing, and I like to think I stay ahead of the curve—whether by reading papers that hurt my head or wasting time on a personal project no one will ever see.
+I chase learning and growth over titles. 
 
-- 🚀 If you’re building the next big thing or just want to chat about the future of innovation (preferably over coffee), drop me a text. I’m always down for a brainstorm or a random, mind-bending idea exchange.
+If you’re working on the next big thing or interested in exchanging ideas about the future of technology, [let's connect](https://www.linkedin.com/in/oraziorillo/) on LinkedIn.
 
 <!--
 **oraziorillo/oraziorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
