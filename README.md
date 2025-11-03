@@ -2,7 +2,7 @@
 
 Orazio here.
 
-AI Engineer at Datwave. I design, build, and scale ML/AI systems that solve other companies' problems.
+I'm an AI Research Engineer at Nuraxi.ai, where I build foundational AI models for the healthcare sector.
 
 My passions usually involve building or tinkering with something related to computers. For the past 5+ years, AI has been a big one.
 
