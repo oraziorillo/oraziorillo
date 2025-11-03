@@ -4,7 +4,7 @@ Orazio here.
 
 I'm an AI Research Engineer at Nuraxi.ai, where I build foundational AI models for the healthcare sector.
 
-My passions usually involve building or tinkering with something related to computers. For the past 5+ years, AI has been a big one.
+I love building and tinkering with anything computer-related. For the past 5+ years, AI and startups have been my main focus.
 
 I chase learning and growth over titles. 
 
