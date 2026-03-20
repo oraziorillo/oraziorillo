@@ -2,7 +2,7 @@
 
 Orazio here.
 
-I'm an AI Research Engineer at Nuraxi.ai, with a simple yet very ambitious mission, i.e. building the World Model of Health!
+I'm an AI Research Engineer at Nuraxi.ai, with a simple yet ambitious mission, building the World Model of Health!
 
 My passions usually involve building or tinkering with anything computers-related. For the past 5+ years, AI has been the biggest one.
 
