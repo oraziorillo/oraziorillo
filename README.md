@@ -1,8 +1,8 @@
 ### Hello World! :wave:
 
-I'm Orazio, an AI Research Engineer at Nuraxi.ai, commited on building the World Model of Health!
+AI Research Engineer at Nuraxi, building the World Model of Health.
 
-If you’re also working on something potentially disruptive, [let's connect](https://www.linkedin.com/in/oraziorillo/) on LinkedIn.
+If you’re working on something that will matter in 10 years, let's connect on [LinkedIn](https://www.linkedin.com/in/oraziorillo/).
 
 <!--
 **oraziorillo/oraziorillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
